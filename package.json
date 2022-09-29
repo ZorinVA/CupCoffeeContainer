@@ -1,0 +1,14 @@
+{
+  "name": "com.zorinva.cupcoffeecontainer",
+  "displayName": "CupCoffeeContainer",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "author": "ZorinVA",
+  "description": "CupCoffeeContainer",
+  "keywords": [
+    "DIContainer"
+  ],
+  "dependencies": {
+    "com.zorinva.servicelocator": "https://github.com/ZorinVA/ServiceLocator.git"
+  }
+}

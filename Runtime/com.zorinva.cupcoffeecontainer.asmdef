@@ -1,0 +1,16 @@
+{
+    "name": "com.zorinva.cupcoffeecontainer",
+    "rootNamespace": "",
+    "references": [
+        "com.zorinva.servicelocator"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
